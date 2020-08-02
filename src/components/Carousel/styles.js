@@ -1,18 +1,14 @@
 import styled from 'styled-components';
 
 export const Title = styled.h3`
-/*
-  background: linear-gradient(to right, purple, red);
-*/
 
   font-style: normal;
-  font-weight: normal;
+  font-weight: bolder;
   font-size: 23px;
   line-height: 1;
   margin-bottom: 15px;
   display: inline-block;
   padding: 20px;
-   
   line-height: 1;
   border-radius: 4px;
 
