@@ -8,7 +8,7 @@ import CadastroVideo from './pages/cadastro/Video'
 import CadastroCategoria from './pages/cadastro/Categoria'
 import Home from './pages/Home';
 
-const Pagina404 = () => (<div>Página 404</div>)
+const Pagina404 = () => (<div>erro 404!</div>)
 
 ReactDOM.render(
    <BrowserRouter>
