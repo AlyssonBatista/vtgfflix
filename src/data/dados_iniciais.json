@@ -1,0 +1,202 @@
+{
+  "categorias": [
+    {
+      "titulo": "SUSPENSE",
+      "cor": "#141414",
+      
+      "link_extra": {
+       "text": "Playlist completa de filmes de suspense ",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyzf_lp42C-EhDFh9PLL3y0Y"
+      },
+      "videos": [
+        {
+          "titulo": "O Circo é um filme mudo americano de 1928, do gênero comédia, escrito, produzido, dirigido e protagonizado por Sir Charles S. Chaplin.",
+          "url": "https://www.youtube.com/watch?v=QMw5OtiLTT8"
+        },
+        {
+          "titulo": "Encurralado (1971), de Steven Spielberg",
+          "url": "https://www.youtube.com/watch?v=YeciRAkFJpI&"
+        },
+        {
+          "titulo": "Agonia de Amor (1947), de Alfred Hitchcock",
+          "url": "https://www.youtube.com/watch?v=muFyksHgIa8"
+        },
+        {
+          "titulo": "As Diabólicas (1955), de Henri-Georges Clouzot",
+          "url": "https://www.youtube.com/watch?v=DAOoraMGalQ&"
+        },
+        {
+          "titulo": "O Vingador Invisível (1945), baseado na obra de Agatha Christie",
+          "url": "https://www.youtube.com/watch?v=vuyxvDJ44vo&"
+        },
+        {
+          "titulo": "O Segredo da Porta Fechada (1947), de Fritz Lang",
+          "url": "https://www.youtube.com/watch?v=KXi0wQvUEwA&"
+        },
+        {
+          "titulo": "Interlúdio (1946), de A. Hitchcock",
+          "url": "https://www.youtube.com/watch?v=ogdRdeyitLA&"
+        },
+        {
+          "titulo": "Quando Fala o Coração (1945), de Alfred Hitchcock",
+          "url": "https://www.youtube.com/watch?v=UFE9Llhw4TU&"
+        }        
+      ]
+    },
+
+    {
+      "titulo": "TERROR",
+      "cor": "#141414",
+      "link_extra": {
+        "text": "Playlist completa de filmes de terror",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyxqFWUdLw4UVQTNJ8G1i7XN"
+      },
+      "videos": [
+        {
+          "titulo": "O Mundo os Condenou (1963), de Joseph Losey",
+          "url": "https://www.youtube.com/watch?v=DCgW5a3zADM&"
+        },
+        {
+          "titulo": "O Mundo os Condenou (1963), de Joseph Losey",
+          "url": "https://www.youtube.com/watch?v=DCgW5a3zADM&"
+        },
+        {
+          "titulo": "A Casa dos Maus Espíritos (1959), com Vincent Price",
+          "url": "https://www.youtube.com/watch?v=vBYi0araHQA&"
+        },
+        {
+          "titulo": "Os Inocentes (1961), com Deborah Kerr",
+          "url": "https://www.youtube.com/watch?v=kzkAcWd6oLc&"
+        }, 
+        {
+          "titulo": "O Fantasma Invisível (1941), com Bela Lugosi",
+          "url": "https://www.youtube.com/watch?v=biVxqkSB7q4&"
+        }
+      ]
+    },
+
+    {
+      "titulo": "POLICIAL/NOIR",
+      "cor": "#141414",
+      "link_extra": {
+        "text": "Playlist completa de filmes de policial/noir",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyzieYdYgqHodp9_knfJODO6"
+      },
+      "videos": [
+        {
+          "titulo": "Epílogo de uma Sentença (1957)",
+          "url": "https://www.youtube.com/watch?v=wcp1xdw8yo8&"
+        },
+        {
+          "titulo": "Epílogo de uma Sentença (1957)",
+          "url": "https://www.youtube.com/watch?v=wcp1xdw8yo8&"
+        },
+        {
+          "titulo": "Ratos Humanos (1955), noir com Ginger Rogers e Edward G. Robinson",
+          "url": "https://www.youtube.com/watch?v=V1nTDxUap3k&"
+        },
+        {
+          "titulo": "Maldição (1950), clássico noir de Fritz Lang",
+          "url": "https://www.youtube.com/watch?v=orbMHRU6CmQ&"
+        }, 
+        {
+          "titulo": "A Lista de Adrian Messenger (1963), de John Huston",
+          "url": "https://www.youtube.com/watch?v=31B6O0hj50E&"
+        }
+      ]
+    },
+
+    {
+      "titulo": "FAROESTE",
+      "cor": "#141414",
+      "link_extra": {
+        "text": "Playlist completa de filmes de faroeste",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyykHqZrs8d9l5NzxbAGT8Rz"
+      },
+      "videos": [
+        {
+          "titulo": "Fúria Abrasadora (1947), faroeste com Joel McCrea",
+          "url": "https://www.youtube.com/watch?v=6kLwzANkaCc&"
+        },
+        {
+          "titulo": "Fúria Abrasadora (1947), faroeste com Joel McCrea",
+          "url": "https://www.youtube.com/watch?v=6kLwzANkaCc&"
+        },
+        {
+          "titulo": "O Que Pode Um Beijo (1950), faroeste com Anne Baxter",
+          "url": "https://www.youtube.com/watch?v=C8bqLALfKA8&"
+        },
+        {
+          "titulo": "No Tempo das Diligências (1939), faroeste com John Wayne",
+          "url": "https://www.youtube.com/watch?v=YVn6oprFH8M&"
+        },
+        {
+          "titulo": "Madrugada da Traição (1955), faroeste clássico com Arthur Kennedy",
+          "url": "https://www.youtube.com/watch?v=MsS9ZvxHuP0&"
+        }
+      ]
+    },
+
+    {
+      "titulo": "DRAMA",
+      "cor": "#141414",
+      "link_extra": {
+        "text": "Playlist completa de filmes de drama",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyy4hU0xvPhjzNNU89zVD3DC"
+      },
+      "videos": [
+        {
+          "titulo": "O Jardim de Allah (1936), com Marlene Dietrich",
+          "url": "https://www.youtube.com/watch?v=1SvwLIl0OUo&"
+        },
+        {
+          "titulo": "O Jardim de Allah (1936), com Marlene Dietrich",
+          "url": "https://www.youtube.com/watch?v=1SvwLIl0OUo&"
+        },
+        {
+          "titulo": "O Sol Brilha na Imensidão (1954), de John Ford",
+          "url": "https://www.youtube.com/watch?v=TVFnBXHN1eE&"
+        },
+        {
+          "titulo": "Madame Butterfly (1932), com Cary Grant",
+          "url": "https://www.youtube.com/watch?v=bTR2owd6heY&"
+        },
+        {
+          "titulo": "A Casa das Sete Torres (1940), com Vincent Price",
+          "url": "https://www.youtube.com/watch?v=pM3Pq6SmbhQ&"
+        }
+      ]
+    },
+
+    {
+      "titulo": "COMÉDIA",
+      "cor": "#141414",
+      "link_extra": {
+        "text": "Playlist completa de filmes de comédia",
+        "url": "https://www.youtube.com/playlist?list=PL_DKldPPlWyz2MIDBTEVvhuy3gVzjQb0g"
+      },
+      "videos": [
+        {
+          "titulo": "O Diabo Riu Por Último (1953), com Humphrey Bogart",
+          "url": "https://www.youtube.com/watch?v=CCRhHU-0I1U&"
+        },
+        {
+          "titulo": "Esse Impulso Maravilhoso (1948), com Tyrone Power e Gene Tierney",
+          "url": "https://www.youtube.com/watch?v=qt0dGx-ujz0&"
+        },
+        {
+          "titulo": "Sherlock Jr. (1924), com Buster Keaton",
+          "url": "https://www.youtube.com/watch?v=ZXqgakAKEV8&"
+        },
+        {
+          "titulo": "Feira de Ilusões (1945), com Jeanne Crain e Dana Andrews",
+          "url": "https://www.youtube.com/watch?v=wiGBmbEy7B0&"
+        },
+        {
+          "titulo": "Sete Oportunidades (1925), de Buster Keaton",
+          "url": "https://www.youtube.com/watch?v=6gFlqyivgyw&"
+        }
+      ]
+    }
+  ]
+}
