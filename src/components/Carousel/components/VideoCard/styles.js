@@ -19,7 +19,7 @@ background-position: center;
 position: relative;
 display: flex;
 align-items: flex-end;
-padding: 16px;
+/*padding: 16px;*/
 
   transition: opacity .3s;
   &:hover,

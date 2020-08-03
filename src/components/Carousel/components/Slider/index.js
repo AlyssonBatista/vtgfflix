@@ -3,7 +3,6 @@ import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
-
 const Container = styled.ul`
   padding: 0;
   margin: 0;
@@ -17,7 +16,7 @@ const Container = styled.ul`
     height: 30px;
     transform: initial;
     &:before {
-      font-size: 30px;
+      /*font-size: 30px;*/
     }
   }
   
@@ -30,7 +29,8 @@ const Container = styled.ul`
 `;
 
 export const SliderItem = styled.li`
-  margin-right: 16px;
+  margin-right: 15px;
+  margin-left: 15px;
   img {
     margin: 16px;
     width: 298px;
@@ -39,15 +39,18 @@ export const SliderItem = styled.li`
   }
 `;
 
+
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
-      dots: false,
-      infinite: false,
-      speed: 300,
-      centerMode: false,
+      
+      dots: true ,
+      infinite: true,
+      speed: 600,
+      centerMode: true,
       variableWidth: true,
       adaptiveHeight: true,
+  
     }}
     >
       {children}
