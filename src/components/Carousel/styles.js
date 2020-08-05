@@ -27,13 +27,10 @@ export const ExtraLink = styled.a`
   font-weight: bolder;
   font-size: 18px;
   line-height: 1;
-  
   display: inline-block;
   padding: 8px;
-
   line-height: 1;
   border-radius: 4px;
-
   margin-right: 15px;
   margin-top: 15px;
   margin-left: 15px;
@@ -68,8 +65,7 @@ export const VideoCardList = styled.ul`
 
 export const VideoCardGroupContainer = styled.section`
   
-  color: white;
+  color: grey;
  /* min-height: 197px;*/
-  margin-bottom: 0px;
-   
+    
 `;

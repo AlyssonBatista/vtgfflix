@@ -22,7 +22,7 @@ align-items: flex-end;
 
 z-index:1;
 
-/*padding: 16px;*/
+/*padding: 13px;*/
 
   transition: opacity .3s;
   &:hover,
