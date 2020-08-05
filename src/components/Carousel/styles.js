@@ -7,6 +7,8 @@ export const Title = styled.h3`
   font-size: 23px;
   line-height: 1;
   margin-bottom: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
   display: inline-block;
   padding: 20px;
   line-height: 1;
@@ -32,16 +34,20 @@ export const ExtraLink = styled.a`
   line-height: 1;
   border-radius: 4px;
 
-  margin-left: 16px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
   text-decoration: none;
   transition: opacity .3s;
+   
   &:hover,
   &:focus {
     opacity: .5;
   }
   @media (max-width: 800px) {
     margin-bottom: 16px;
-    margin-left: 0;
+    margin-left: 16px;
   }
 `;
 
@@ -64,6 +70,6 @@ export const VideoCardGroupContainer = styled.section`
   
   color: white;
  /* min-height: 197px;*/
-  margin-bottom: 25px;
+  margin-bottom: 0px;
    
 `;
